@@ -12,9 +12,9 @@ This is a [PyTorch](https://pytorch.org/ "PyTorch") implementation of a hashtag 
 `git clone https://github.com/Andrew03/Hashtag-Generation`
 
 ## Setup Data
-1. Download and extract the [HARRISON](https://github.com/minstone/HARRISON-Dataset "HARRISON"). <br>
+1. Download and extract the [HARRISON](https://github.com/minstone/HARRISON-Dataset "HARRISON") dataset. <br>
 `git clone https://github.com/minstone/HARRISON-Dataset`
-2. Download a torrent service such as [Deluge](https://deluge-torrent.org/ "Deluge"). Then torrent the <br>
+2. Download a torrent service such as [Deluge](https://deluge-torrent.org/ "Deluge"). Then torrent the 
 `HARRISON-Dataset/HARRISON/HARRISON_dataset.torrent` file.
 3. Extract the images by untarring the result of the torrent, `HARRISON_full.tar`. <br>
 `tar xzf HARRISON_full.tar`
